@@ -1,0 +1,30 @@
+SỔ NCC CANTON FAIR – HƯỚNG DẪN
+
+1) ĐƯA LÊN WEB (làm 1 lần, trên máy tính)
+   - Vào https://app.netlify.com/drop (đăng ký miễn phí bằng email/Google).
+   - Giải nén file zip này, kéo cả thư mục "SoNCC" vào trang Netlify Drop.
+   - Netlify trả về một đường link dạng https://ten-gi-do.netlify.app
+
+2) CÀI LÊN IPHONE (Safari)
+   - Mở link bằng Safari, khi đang có mạng.
+   - Bấm nút Chia sẻ → "Thêm vào MH chính" (Add to Home Screen).
+   - Từ giờ mở bằng biểu tượng "Sổ NCC" trên màn hình chính.
+   - Lần đầu mở, bấm thử "Xuất / Sao lưu" → "Excel không ảnh" một lần khi có mạng
+     để app tải sẵn công cụ xuất file. Sau đó dùng được cả khi mất mạng.
+
+   Android: mở link bằng Chrome → menu ⋮ → "Thêm vào màn hình chính".
+   Windows/Mac: mở link bằng Chrome/Edge/Safari. Có thể bấm biểu tượng "Cài đặt"
+   trên thanh địa chỉ (Chrome/Edge) để dùng như ứng dụng.
+
+3) DỮ LIỆU LƯU Ở ĐÂU
+   - Lưu ngay trên máy đang dùng, không cần mạng. Bấm Lưu là xong.
+   - Mỗi máy có một sổ riêng, không tự đồng bộ giữa điện thoại và máy tính.
+     Muốn chuyển sang máy khác: "Tạo bản sao lưu" trên máy cũ → gửi file sang
+     máy mới → "Khôi phục từ bản sao lưu".
+   - KHÔNG dùng chế độ duyệt riêng tư (Private), và không xóa "Dữ liệu trang web"
+     của Safari/Chrome.
+
+4) SAO LƯU MỖI TỐI
+   - "Xuất / Sao lưu" → "Tạo bản sao lưu đầy đủ" → "Lưu / Chia sẻ file"
+     → gửi qua Zalo cho chính mình, hoặc lưu vào iCloud Drive / Google Drive.
+   - Đầu trang sẽ hiện "✓ Đã sao lưu hôm nay" khi xong.
